@@ -1,3 +1,3 @@
 Test of git rep
 
-<b> end </b>
+<b> end 2 </b>
