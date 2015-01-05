@@ -1,4 +1,3 @@
-mb1
-===
+Test of git rep
 
-first_mb_rep
+<b> end </b>
